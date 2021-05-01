@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/swim-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/swim-app/static/js/main.dcfb64f0.chunk.js",
+    "main.js.map": "/swim-app/static/js/main.dcfb64f0.chunk.js.map",
+    "runtime-main.js": "/swim-app/static/js/runtime-main.5b56f94b.js",
+    "runtime-main.js.map": "/swim-app/static/js/runtime-main.5b56f94b.js.map",
+    "static/js/2.2350473a.chunk.js": "/swim-app/static/js/2.2350473a.chunk.js",
+    "static/js/2.2350473a.chunk.js.map": "/swim-app/static/js/2.2350473a.chunk.js.map",
+    "static/js/3.1e0386aa.chunk.js": "/swim-app/static/js/3.1e0386aa.chunk.js",
+    "static/js/3.1e0386aa.chunk.js.map": "/swim-app/static/js/3.1e0386aa.chunk.js.map",
+    "index.html": "/swim-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/swim-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2350473a.chunk.js.LICENSE.txt": "/swim-app/static/js/2.2350473a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/swim-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b56f94b.js",
+    "static/js/2.2350473a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.dcfb64f0.chunk.js"
+  ]
+}
